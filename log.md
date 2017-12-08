@@ -22,3 +22,14 @@
 **Twitter Post:**  D2 - Learned more about set comprehension and list comprehension.  Looked int pybit.es challenges but I think its still too advanced. #100DaysOfCode  
 
 
+### Day 2: December 08, 2017
+
+**Today's Progress**: Continued more on the learning class from udemy on Python.  Learned a bit about while loops and then set intersections (code.intersection).  Also covered briefly string split() method.
+
+**Thoughts:** Just trying to plug along and get some time in.  The upcoming weekend will be tough to find the time, but maybe I will just switch over to a book for the weekend, since I cannot have a laptop with me everywhere I am going to.  The next section in the udemy class will get more in depth and will start to learn dictionaries.
+
+**Link to work:** No link today.
+
+**Twitter Post:**  D3 - Learned about while loops, set intersections and string splits.  Moving to book studies for the weekend  #100DaysOfCode  
+
+
