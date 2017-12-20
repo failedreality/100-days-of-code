@@ -32,4 +32,12 @@
 
 **Twitter Post:**  D3 - Learned about while loops, set intersections and string splits.  Moving to book studies for the weekend  #100DaysOfCode  
 
+### Day 4: December 19, 2017
+
+**Today's Progress**: Continued more on the learning class from udemy on Python.  Right now we are learning more about methods and mutliple methods with lists and dictionaries.  The class is supposed to be creating/learning a student grade system.  Also learning how to average the marks of the students and eventually display the student and the average grade(marks(
+
+**Thoughts:** I'm fallen off the wagon, with the amount of real life work that has come up between this gap.  Unfortunately for me, working IT sometimes means long hours and deadlines, but tonight I pressed through and got a little bit done.
+
+**Twitter Post:**  D4 - Methods and multiple methods while using lists and dictionaries within the methods. Still over my head but i'm slowly understanding more and more while going through this udemy class. #100DaysOfCode
+ 
 
