@@ -40,4 +40,11 @@
 
 **Twitter Post:**  D4 - Methods and multiple methods while using lists and dictionaries within the methods. Still over my head but i'm slowly understanding more and more while going through this udemy class. #100DaysOfCode
  
+### Day 5: December 20, 2017
+
+**Today's Progress**: Continued more on the learning class from udemy on Python.  Today was more about the methods and dictionaries used in this little student app we are creating.  Then built a looping menu system to see students and their average grades.  At the end he introduced classes, which replaced some of the code and methods we had to make it simpler and cleaner.  
+
+**Thoughts:** Between dictionaries and methods and now classes, I do believe my head is spinning.  I guess the instructor is pretty fast paced, so I'm trying to retain it all, but it's alot thats for sure.
+
+**Twitter Post:**  D5 Still learning methods and dictionaries and just a hint of classes, which tomorrow will dive more into during the class.  My head is still above water so I'm not drowning yet...  #100DaysOfCode
 
