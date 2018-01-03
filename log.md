@@ -48,3 +48,10 @@
 
 **Twitter Post:**  D5 Still learning methods and dictionaries and just a hint of classes, which tomorrow will dive more into during the class.  My head is still above water so I'm not drowning yet...  #100DaysOfCode
 
+### Day 6: January 02, 2018
+
+**Today's Progress**: More about classes and importing them in to the main code file.  Then within the classes learned more about filters and using lambda.  Also learned how to write and read from a text file.  
+
+**Thoughts:** Things are going pretty good, however I'm lacking consecutive days so it's tough to retain most things I'm learning in this class.  However, 2018 I'm going to focus more on doing this daily and working through more Python classes.
+
+**Twitter Post:**  D6 Python classes more in depth and use of filters and lambda... Also learned the with block to write and read to a txt file.. building a rental sysem in the class i'm in...  #100DaysOfCode
