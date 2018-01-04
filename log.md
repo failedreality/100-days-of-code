@@ -55,3 +55,11 @@
 **Thoughts:** Things are going pretty good, however I'm lacking consecutive days so it's tough to retain most things I'm learning in this class.  However, 2018 I'm going to focus more on doing this daily and working through more Python classes.
 
 **Twitter Post:**  D6 Python classes more in depth and use of filters and lambda... Also learned the with block to write and read to a txt file.. building a rental sysem in the class i'm in...  #100DaysOfCode
+
+### Day 7: January 03, 2018
+
+**Today's Progress**: More about classes and developing this little app about a movie rental system.  Also learned how to write out to a txt file in CSV format and tomorrow supposed to learn output the file in json.
+
+**Thoughts:** Today was good.  Still trying to wrap my head around a lot of it, but now seeing what the code can do in a more complex way then just printing varibles is helping grasp it a bit more.
+
+**Twitter Post:**  D7 Python - Learned classes more in depth and use of filters..  Also learned the with block to write and read to a txt file.. Also learned formatting in writing to CSV format and tomorrow json output.  This is leading up to building a rental sysem in the class i'm in...  #100DaysOfCode
