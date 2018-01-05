@@ -63,3 +63,9 @@
 **Thoughts:** Today was good.  Still trying to wrap my head around a lot of it, but now seeing what the code can do in a more complex way then just printing varibles is helping grasp it a bit more.
 
 **Twitter Post:**  D7 Python - Learned classes more in depth and use of filters..  Also learned the with block to write and read to a txt file.. Also learned formatting in writing to CSV format and tomorrow json output.  This is leading up to building a rental sysem in the class i'm in...  #100DaysOfCode
+
+### Day 8: January 04, 2018
+
+**Today's Progress**: Finished up classes and CSV write and read formatting.  Next step was getting rid of all the CSV code and move it to json formattinng.  Then Read and wrote the json to a txt file.  Completed a user menu for the movie rental system and finished up that section of the udemy class.
+
+**Twitter Post:**  D8 Python - Finished classes and worked with writing json output to a txt file and reading from the same file.  Created a user m enu system and tested, completed this section of class.. Next section writing to postgresql #100DaysOfCode #codenewbie
