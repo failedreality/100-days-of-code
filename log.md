@@ -69,3 +69,10 @@
 **Today's Progress**: Finished up classes and CSV write and read formatting.  Next step was getting rid of all the CSV code and move it to json formattinng.  Then Read and wrote the json to a txt file.  Completed a user menu for the movie rental system and finished up that section of the udemy class.
 
 **Twitter Post:**  D8 Python - Finished classes and worked with writing json output to a txt file and reading from the same file.  Created a user m enu system and tested, completed this section of class.. Next section writing to postgresql #100DaysOfCode #codenewbie
+
+### Day 9: January 05, 2018
+
+**Today's Progress**: Started into the PostgreSQL part of this course I am in.  Had to install it on my windows PC and then we worked on Select, Where, Update and Delete high level queries and worked on displaying the data, and updating prices in a sample items database.  
+
+**Twitter Post:**  D9 #100DaysOfCode Python/PostgreSQL - Today was focused on PostgreSQL installation and basic commands to get familiar.  Select, Update, Where and Delete was learned working with sample data. Next is joins and orders. #makingprogress    #codenewbie
+
