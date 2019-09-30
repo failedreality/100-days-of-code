@@ -39,7 +39,7 @@
 **Thoughts:** I'm fallen off the wagon, with the amount of real life work that has come up between this gap.  Unfortunately for me, working IT sometimes means long hours and deadlines, but tonight I pressed through and got a little bit done.
 
 **Twitter Post:**  D4 - Methods and multiple methods while using lists and dictionaries within the methods. Still over my head but i'm slowly understanding more and more while going through this udemy class. #100DaysOfCode
- 
+
 ### Day 5: December 20, 2017
 
 **Today's Progress**: Continued more on the learning class from udemy on Python.  Today was more about the methods and dictionaries used in this little student app we are creating.  Then built a looping menu system to see students and their average grades.  At the end he introduced classes, which replaced some of the code and methods we had to make it simpler and cleaner.  
@@ -76,3 +76,6 @@
 
 **Twitter Post:**  D9 #100DaysOfCode Python/PostgreSQL - Today was focused on PostgreSQL installation and basic commands to get familiar.  Select, Update, Where and Delete was learned working with sample data. Next is joins and orders. #makingprogress    #codenewbie
 
+### REBOOT of 100DaysOfCode ###
+
+I have decided to get back on track with this, now that I am studying c++ at the college, which is now forcing me to actually learn something on a daily basis.  So I will most likely start attempting to record my daily coding as I go through this class.  I really should have started this back when class began back in August, but its never too late to start again.  So hopefully I will have some logs to write soon.
