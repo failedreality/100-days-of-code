@@ -86,4 +86,10 @@ I have decided to get back on track with this, now that I am studying c++ at the
 Did some sample code from the book in repl.it just to see how things reacted.  
 https://repl.it/@failedreality/Ch6-NotesExamples (just a shot of what I did at the current time.)  
 
-###
+### Day 1: October 08, 2019
+
+**This week is my mid-term week so we get all week to go back over the previous chapters.  So I decided to watch some c++ Udemy courses that covered roughly the same concepts, to see a different view of them.  So I spent most of my time (about 2-3 hours) watching some videos and doing a couple practice programs. (which one took me the most time, cause I had something slightly off and it wouldn't compile.)  I finally got past that and got it to run and then called it a night.
+
+### Day 2: October 09, 2019
+
+**Started a Udemy class 'Docker for the beginner - hands on devops' - got through section 1 and 85% of section 2.  I got it up and running on my DigitalOcean Linux server for testing and learning.  **Finished up on Section 2.8**
